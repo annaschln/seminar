@@ -1,2 +1,2 @@
 # Homework1
-Repository for Homework 1
+This is my submission for homework 1
